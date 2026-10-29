@@ -1,0 +1,10 @@
+[package]
+name = "horizon-mod-appleskin"
+version = "1.0.0"
+edition = "2024"
+license = "Unlicense"
+publish = false
+description = "AppleSkin for Horizon, a native mod: food, saturation and exhaustion in a corner, and what the food in your hand would restore."
+
+[lib]
+path = "mixins/appleskin/runtime.rs"
