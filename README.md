@@ -11,4 +11,4 @@ horizon-launcher native-build . --trust-native-code
 
 ## Credits
 
-Based on AppleSkin by squeek502. See LICENSE for the licence notices.
+Based on AppleSkin by squeek502. See [LICENSE](LICENSE). for the licence notices.
