@@ -1,6 +1,10 @@
+#[allow(dead_code)]
 pub const ID: &str = "appleskin";
+#[allow(dead_code)]
 pub const NAME: &str = "AppleSkin";
+#[allow(dead_code)]
 pub const VERSION: &str = "1.0.0";
+#[allow(dead_code)]
 pub const DESCRIPTION: &str = "Saturation, exhaustion and the food in your hand, drawn over the food bar as the original AppleSkin does.";
 
 pub const MAX_FOOD: i32 = 20;
