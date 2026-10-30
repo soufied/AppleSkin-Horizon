@@ -3,6 +3,9 @@
 A native mod for Horizon that draws saturation, exhaustion and the food in your hand over the food bar,
 as the original [AppleSkin](https://github.com/squeek502/AppleSkin) does.
 
+![Saturation Icons](preview/saturation.png)
+![AppleSkin preview](preview/appleskin.gif)
+
 ## Build
 
 ```sh
