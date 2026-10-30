@@ -1,6 +1,6 @@
 [mod]
 id = "appleskin"
-version = "1.0.0"
+version = "0.1.0"
 priority = 200
 
 [compatibility]
