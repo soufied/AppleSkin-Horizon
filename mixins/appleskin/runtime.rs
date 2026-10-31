@@ -3,7 +3,7 @@ pub const ID: &str = "appleskin";
 #[allow(dead_code)]
 pub const NAME: &str = "AppleSkin";
 #[allow(dead_code)]
-pub const VERSION: &str = "0.1.0";
+pub const VERSION: &str = "0.1.1";
 #[allow(dead_code)]
 pub const DESCRIPTION: &str = "Saturation, exhaustion and the food in your hand, drawn over the food bar as the original AppleSkin does.";
 
